@@ -12,7 +12,6 @@
 
 ---
 
-
 ### Connect with me:
 
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://zakurosoda.wixsite.com/ctf-writeups)
