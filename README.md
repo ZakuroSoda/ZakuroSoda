@@ -65,3 +65,11 @@
 ➡️ [More videos...](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g)
 
 ---
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
