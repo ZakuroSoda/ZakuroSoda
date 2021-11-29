@@ -70,5 +70,5 @@
 :zap: GitHub Stats
 
 
-[![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda)](https://github.com/anuraghazra/github-readme-stats)
+[![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda)]
 
