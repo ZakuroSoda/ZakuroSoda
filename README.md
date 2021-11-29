@@ -68,7 +68,7 @@
 
 
 :zap: GitHub Stats
-<! --- <img align="left" alt="ZakuroSoda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ZakuroSoda&show_icons=true&hide_border=true" /> --!>
+
 
 [![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda)](https://github.com/anuraghazra/github-readme-stats)
 
