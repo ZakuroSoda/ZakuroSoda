@@ -7,7 +7,8 @@
 - Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) 😀
 - I have no clue what I am doing on GitHub because I am noob coder 💻🖱️
 - ⚡ I enjoy programmer memes lol 😂
-- 💰 I am really into making money 🤑 - Please contact me to teach me how to if you have any METHODS! ☎️
+- 💰 I am really into making money 🤑 - Please contact me to teach me how to if you have any METHODS!!! ☎️
+- Check out [Nice-Stuff](https://github.com/ZakuroSoda/Nice-Stuff) for some NOICE things!
 
 
 ---
