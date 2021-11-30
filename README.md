@@ -1,5 +1,6 @@
 ### Hi there, I'm Reyes - aka [ZakuroSoda](https://zakurosoda.wixsite.com/ctf-writeups) 👋 
 
+![](https://img.shields.io/badge/Noob-Coder-%23ff5f00)
 ![](https://img.shields.io/badge/Learning-C%2B%2B%20and%20JavaScript-green)
 ![](https://img.shields.io/badge/Making-YouTube%20Videos-%23c4302b)
 ![](https://img.shields.io/badge/Doing-CTF%20Challenges-blue)
