@@ -3,6 +3,7 @@
 ![](https://img.shields.io/badge/Learning-C%2B%2B%20and%20JavaScript-green)
 ![](https://img.shields.io/badge/Making-YouTube%20Videos-%23c4302b)
 ![](https://img.shields.io/badge/Doing-CTF%20Challenges-blue)
+![](https://img.shields.io/badge/Please%20%F0%9F%99%8F-Teach%20me%20how%20to%20Make%20%F0%9F%92%B5%20%20and%20%F0%9F%93%88%F0%9F%92%B3-%23c542f5)
 ![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
 
 ## I'm a Student, Wannabe Developer, and Wannabe Youtuber!
