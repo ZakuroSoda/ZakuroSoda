@@ -64,6 +64,7 @@
 - Advanced Youth Cyber Exploration Program
 - Youth Cyber Exploration Program Central
 - Youth Cyber Exploration Program
+- Brainhack 2021 Training
 - Kaspersky Interactive Protection Simulation
 - Sieberrsec CTF 2021
 - Idek CTF 2021
