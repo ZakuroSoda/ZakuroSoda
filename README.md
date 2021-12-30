@@ -69,7 +69,7 @@
 - IDEK CTF 2021
 - XMAS CTF 2021
 - Home Team Investigator's Challenge HTX
-
+- Meta CTF 2021
 
 ---
 
