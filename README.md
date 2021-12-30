@@ -66,8 +66,8 @@
 - Youth Cyber Exploration Program
 - Kaspersky Interactive Protection Simulation
 - Sieberrsec CTF 2021
-- IDEK CTF 2021
-- XMAS CTF 2021
+- Idek CTF 2021
+- X-MAS CTF 2021
 - Home Team Investigator's Challenge HTX
 - Meta CTF 2021
 
