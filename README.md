@@ -87,12 +87,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Even if you offend Santa...](https://www.youtube.com/watch?v=3_bSxDfD_H4)
-- [When your mom asks you to delete all your games...](https://www.youtube.com/watch?v=svzyVfAkTMM)
-- [Billionaires declaring their taxes be like...](https://www.youtube.com/watch?v=_pNulhPVoxs)
-- [Alabama family trees be like](https://www.youtube.com/watch?v=o-F9LhOaT3Y)
-- [HOW HACKERS HACK INTO YOUR DISCORD ACCOUNT](https://www.youtube.com/watch?v=U5zHUBSUp8U)
-- [What IS "DEEZ NUTS" - ZakuroAcademy (SOLVED WITH LOGIC AND MATH)](https://www.youtube.com/watch?v=8FLJHn4MhZs)
+- [EXCLUSIVE (or) to HACKERS](https://www.youtube.com/watch?v=_e_nq5JOVnA)
+- [WATCH A HACKER STEAL YOUR COOKIES](https://www.youtube.com/watch?v=Bphx1UT7m8M)
+- [Exploitation of JavaScript Game...](https://www.youtube.com/watch?v=z5VkCPJPfYc)
+- [LENGTH, not CONTENT](https://www.youtube.com/watch?v=6LgqudMwxKk)
+- [ONLY HACKERS CAN WATCH](https://www.youtube.com/watch?v=RDts3R77a9E)
+- [Getting Started in C/C++](https://www.youtube.com/watch?v=-1mu24SI7rE)
 <!-- YOUTUBE:END -->
 
 ➡️ [More videos...](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g)
