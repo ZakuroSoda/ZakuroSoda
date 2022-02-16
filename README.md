@@ -61,7 +61,7 @@
 
 ### 🥇 My Portfolio
 
-Cyber:
+**Cyber**
 - Advanced Youth Cyber Exploration Program
 - Youth Cyber Exploration Program Central
 - Youth Cyber Exploration Program
@@ -74,6 +74,13 @@ Cyber:
 - Meta CTF 2021
 - DiceCTF 2022
 - Cybergrabs CTF 2022
+
+**Math & Science**
+- Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
+- 43rd International C.B. Paul Science Quiz Silver 🥈
+- United Kingdom Intermediate Math Challenge
+
+*and many more to come...*
 
 ---
 
