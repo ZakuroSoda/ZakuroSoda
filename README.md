@@ -74,6 +74,7 @@
 - Meta CTF 2021
 - DiceCTF 2022
 - Cybergrabs CTF 2022
+- Singapore National Olympiad in Informatics [NOI] 2022 Qualifying Round (Got 1 subtask!)
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
