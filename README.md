@@ -78,7 +78,7 @@
 - Cybergrabs CTF 2022
 - Singapore National Olympiad in Informatics [NOI] 2022 Qualifying Round (Got 1 subtask!)
 - CTFSG 2022
-- Whitehacks CTF 2022 
+- SMU Whitehacks CTF 2022 
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
