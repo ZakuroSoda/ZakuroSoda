@@ -115,5 +115,5 @@
 
 👀 View Source
 
-<a href="https://github.com/ZakuroSoda/ZakuroSoda/raw/main/README.md"><img src="https://soft-hearted-spray.000webhostapp.com/assets/534621.png"></a>
+<a href="https://github.com/ZakuroSoda/ZakuroSoda/raw/main/README.md"><img width="50px" src="https://soft-hearted-spray.000webhostapp.com/assets/534621.png"></a>
 
