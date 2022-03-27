@@ -29,6 +29,8 @@
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zakuro_soda/)
 [<img align="left" alt="Spotify" width="22px" src="https://i.imgur.com/m1jGaHq.png" />](https://open.spotify.com/user/4qun1d0ixi2cb4ulwa19o75nn?si=1b0e384b7237457b)
 [<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discordapp.com/users/728212487719354370/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733635.png">](https://twitter.com/zakurosoda1337)
+
 
 <br />
 
