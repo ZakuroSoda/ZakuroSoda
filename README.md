@@ -79,6 +79,8 @@
 - Singapore National Olympiad in Informatics [NOI] 2022 Qualifying Round (Got 1 subtask!)
 - CTFSG 2022
 - SMU Whitehacks CTF 2022 
+- Nullcon Winja CTF 2022
+- Space Heroes CTF 2022
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
