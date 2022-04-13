@@ -81,6 +81,7 @@
 - SMU Whitehacks CTF 2022 
 - Nullcon Winja CTF 2022
 - Space Heroes CTF 2022
+- Microsoft Imagine Cup Junior 2022
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
