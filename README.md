@@ -38,7 +38,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="MD" width="26px" src="https://macdown.uranusjr.com/static/images/logo.png" />
 
-<br />
+<br /><br />
 
 > I do my notes in markdown 😋
 
