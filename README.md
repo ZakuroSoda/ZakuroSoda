@@ -8,12 +8,9 @@
 
 ## I'm a Student, Wannabe Developer, and Wannabe Youtuber!
 
-- I love doing CTFs!
-- 🌱 I like learning hacking and programming languages 🤣
-- Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) 😀
-- I have no clue what I am doing on GitHub because I am noob coder 💻🖱️
-- ⚡ I enjoy programmer memes lol 😂
-- I LOVE 💘FRONT-END💖 DEVELOPMENT! (Always get carried away doing UI in CSS)
+Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) 😜
+
+> I LOVE 💘FRONT-END💖 DEVELOPMENT! (Always get carried away doing UI in CSS)
 
 ---
 
