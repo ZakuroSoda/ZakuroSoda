@@ -14,10 +14,7 @@
 - Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) 😀
 - I have no clue what I am doing on GitHub because I am noob coder 💻🖱️
 - ⚡ I enjoy programmer memes lol 😂
-- Currently learning C++ <img alt="c++" style="vertical-align:bottom" width ="18px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-- 💰 I am really into making money 🤑 - Please contact me to teach me how to if you have any METHODS!!! ☎️
-- Check out [Nice-Stuff](https://github.com/ZakuroSoda/Nice-Stuff) for some NOICE things!
-
+- I LOVE 💘FRONT-END💖 DEVELOPMENT! (Always get carried away doing UI in CSS)
 
 ---
 
