@@ -23,7 +23,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://zakurosoda.wixsite.com/ctf-writeups)
+[<img align="left" alt="website" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />](https://zakurosoda.wixsite.com/ctf-writeups)
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g)
 [<img align="left" alt="Reddit" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Reddit_glyph_svg-512.png" />](https://www.reddit.com/user/roselle_reese_4869)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zakuro_soda/)
