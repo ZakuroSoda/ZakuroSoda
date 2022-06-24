@@ -40,7 +40,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 
 <br />
 
-
+> I do my notes in markdown 😋
 
 ---
 
