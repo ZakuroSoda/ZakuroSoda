@@ -56,7 +56,7 @@
 **Wins**
 - None L Bozo + Ratio
 
-**Cyber**
+**Participation in Cyber Events/CTF**
 - Advanced Youth Cyber Exploration Program
 - Youth Cyber Exploration Program Central
 - Youth Cyber Exploration Program
@@ -81,6 +81,7 @@
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
 - 43rd International C.B. Paul Science Quiz Silver 🥈
 - United Kingdom Intermediate Math Challenge
+- Singapore Mathematical Olympiad Junior 2022 Bronze 🥉
 
 *and many more to come...*
 
