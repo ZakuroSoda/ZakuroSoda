@@ -99,7 +99,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 :zap: GitHub Stats
 
 
-![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda&theme=solarized-light)
+![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda&theme=onedark)
 
 
 ---
