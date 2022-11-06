@@ -75,6 +75,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - 43rd International C.B. Paul Science Quiz Silver 🥈
 - United Kingdom Intermediate Math Challenge
 - Singapore Mathematical Olympiad Junior 2022 Bronze 🥉
+- Australian Math Competition 2022 Distinction 🥇
 
 *and many more to come...*
 
