@@ -69,6 +69,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - Space Heroes CTF 2022
 - Microsoft Imagine Cup Junior 2022
 - YCEP 2022
+- University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
