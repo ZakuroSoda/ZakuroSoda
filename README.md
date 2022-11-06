@@ -50,9 +50,9 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
 
 **Participation in Cyber Events/CTF**
-- Advanced Youth Cyber Exploration Program
-- Youth Cyber Exploration Program Central
-- Youth Cyber Exploration Program
+- Advanced Youth Cyber Exploration Program 2021
+- Youth Cyber Exploration Program Central 2021
+- Youth Cyber Exploration Program 2021, 2022
 - Brainhack 2021 Training
 - Kaspersky Interactive Protection Simulation
 - Sieberrsec CTF 2021
