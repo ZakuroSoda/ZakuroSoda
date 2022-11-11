@@ -48,6 +48,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 
 **Wins**
 - University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
+- Sentinel Challenge 2nd Place by Mindef and SAF
 
 **Participation in Cyber Events/CTF**
 - Advanced Youth Cyber Exploration Program 2021
