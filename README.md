@@ -51,7 +51,7 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - Sentinel Challenge 2nd Place by Mindef and SAF
 
 **Kinda Proud**
-- GovTech JAGA STACK THE FLAGS 2022 12th Place out of 58
+- GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
 - BuckeyeCTF 2022 (12th Place in Undergraduate Division, 30th Place Total)
 
 **Participation in Cyber Events/CTF**
