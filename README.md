@@ -50,6 +50,10 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
 - Sentinel Challenge 2nd Place by Mindef and SAF
 
+**Kinda Proud**
+- GovTech JAGA STACK THE FLAGS 2022 12th Place out of 58
+- BuckeyeCTF 2022 (12th Place in Undergraduate Division, 30th Place Total)
+
 **Participation in Cyber Events/CTF**
 - Advanced Youth Cyber Exploration Program 2021
 - Youth Cyber Exploration Program Central 2021
@@ -70,7 +74,6 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 - Space Heroes CTF 2022
 - Microsoft Imagine Cup Junior 2022
 - YCEP 2022
-- BuckeyeCTF 2022 (12th Place in Undergraduate Division, 30th Place Total)
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
