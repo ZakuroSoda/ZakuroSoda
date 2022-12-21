@@ -114,9 +114,9 @@ Features:
 - Lightweight and Open-Source (No data stealing)
 
 #### [Mulberry](https://github.com/ZakuroSoda/mulberry)
-> URL Shortener you can use internally (Bare Bones)
+> URL Shortener you can use internally (bare bones design)
 
-### Notes to Document my Learning
+### 📓 Notes to Document my Learning
 - [CTF Notes](https://github.com/ZakuroSoda/ctf-notes)
 - [Lord of SQLi (Very comprehensive)](https://github.com/ZakuroSoda/LordOfSQLi)
 
