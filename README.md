@@ -87,6 +87,7 @@
 <!-- YOUTUBE:START -->
 - [SQL Injection with an IMAGE?](https://www.youtube.com/watch?v=hldPY0kiT_s)
 - [Open any Password Protected Zip/PDF](https://www.youtube.com/watch?v=RWOb-JJ2jvo)
+- [PHP's == Comparator is Flawed](https://www.youtube.com/watch?v=CnSM3YfXrWg)
 - [EXCLUSIVE (or) to HACKERS](https://www.youtube.com/watch?v=_e_nq5JOVnA)
 - [How Hackers Steal Your Sweet Cookies](https://www.youtube.com/watch?v=Bphx1UT7m8M)
 - [Exploitation of a Complex JavaScript Game...](https://www.youtube.com/watch?v=z5VkCPJPfYc)
