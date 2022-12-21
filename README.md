@@ -12,31 +12,31 @@
 
 ### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />](https://zakurosoda.wixsite.com/ctf-writeups)
+[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discordapp.com/users/909659481691004928/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733635.png">](https://twitter.com/zakurosoda1337)
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g)
 [<img align="left" alt="Reddit" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Reddit_glyph_svg-512.png" />](https://www.reddit.com/user/roselle_reese_4869)
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/zakuro_soda/)
 [<img align="left" alt="Spotify" width="22px" src="https://cdn-icons-png.flaticon.com/512/87/87409.png" />](https://open.spotify.com/user/4qun1d0ixi2cb4ulwa19o75nn?si=1b0e384b7237457b)
-[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discordapp.com/users/909659481691004928/)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733635.png">](https://twitter.com/zakurosoda1337)
+<!-- [Old Website](https://zakurosoda.wixsite.com/ctf-writeups) -->  
 
-
-<br />
+<br>
 
 ### Languages and Tools that I Use
 
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772149.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="MD" width="26px" src="https://macdown.uranusjr.com/static/images/logo.png" />
 
 <br /><br />
 
-> I do my notes in markdown 😋
+> I do my notes in markdown 😋  
+> (loves windows)
 
 ---
 
@@ -48,7 +48,7 @@
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
-- BuckeyeCTF 2022 (12th Place in Undergraduate Division, 30th Place Total)
+- BuckeyeCTF 2022 (12th Place in Undergraduate Division)
 
 **Participation in Cyber Events/CTF**
 - Advanced Youth Cyber Exploration Program 2021
@@ -82,18 +82,18 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Some YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SQL Injection with an IMAGE?](https://www.youtube.com/watch?v=hldPY0kiT_s)
+- [Open any Password Protected Zip/PDF](https://www.youtube.com/watch?v=RWOb-JJ2jvo)
 - [EXCLUSIVE (or) to HACKERS](https://www.youtube.com/watch?v=_e_nq5JOVnA)
-- [WATCH A HACKER STEAL YOUR COOKIES](https://www.youtube.com/watch?v=Bphx1UT7m8M)
-- [Exploitation of JavaScript Game...](https://www.youtube.com/watch?v=z5VkCPJPfYc)
+- [How Hackers Steal Your Sweet Cookies](https://www.youtube.com/watch?v=Bphx1UT7m8M)
+- [Exploitation of a Complex JavaScript Game...](https://www.youtube.com/watch?v=z5VkCPJPfYc)
 - [LENGTH, not CONTENT](https://www.youtube.com/watch?v=6LgqudMwxKk)
-- [ONLY HACKERS CAN WATCH](https://www.youtube.com/watch?v=RDts3R77a9E)
 - [Getting Started in C/C++](https://www.youtube.com/watch?v=-1mu24SI7rE)
 <!-- YOUTUBE:END -->
 
-➡️ [More videos...](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g)
 
 ---
 
