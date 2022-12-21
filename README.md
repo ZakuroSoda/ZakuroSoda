@@ -88,6 +88,40 @@
 
 ---
 
+### :hammer: Projects (that **YOU** can use too!)
+> I promise you'll find at least one useful...
+
+#### [QuizSoda](https://github.com/ZakuroSoda/QuizSoda)
+> Ever wanted to quiz youself? Or host a really quick CTF locally? Or test a couple of students real quick?  
+
+QuizSoda is the **(web) app** for you!  
+- It's really small (700 LOC)!  
+- It's really simplified - run it in one click!  
+- And it has no features which you won't *need*!  
+- It's really fast (SQL)!  
+
+#### [Whatsapp Web Customiser](https://github.com/ZakuroSoda/WhatsappWeb-Customiser)
+> If you're getting tired of Whatsapp's (Web) boring background patterns, load in this Chrome Extension and change the chat background picture to whatever you like!
+
+Features:
+- Open-Source: Most Whatsapp Web extensions are closed source so... You can't tell if they are stealing your data!
+- Privacy Filter: *Working towards* blurring the screen every 30 seconds from inactivity
+- Deleted Message Preservation: *Working towards*: Cyberbullies can't run away by deleting their messages quickly now! Screenshot their messages and report them.
+
+#### [Remember Me](https://github.com/ZakuroSoda/remember-me)
+> Ever gotten frustrated with forgetting to record down your project sources? This chrome extension delivers those APA formatted citations (copyable) while you're researching!
+
+- Lightweight and Open-Source (No data stealing)
+
+#### [Mulberry](https://github.com/ZakuroSoda/mulberry)
+> URL Shortener you can use internally (Bare Bones)
+
+### Notes to Document my Learning
+- [CTF Notes](https://github.com/ZakuroSoda/ctf-notes)
+- [Lord of SQLi (Very comprehensive)](https://github.com/ZakuroSoda/LordOfSQLi)
+
+---
+
 ### 📺 Some YouTube Videos
 
 <!-- YOUTUBE:START -->
