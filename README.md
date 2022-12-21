@@ -1,16 +1,12 @@
 ### Hi there, I'm Reyes - aka [ZakuroSoda](https://zakurosoda.wixsite.com/ctf-writeups) 👋 
 
-![](https://img.shields.io/badge/Noob-Coder-%23ff5f00)
+![](https://img.shields.io/badge/High%20School-Coder-%23ff5f00)
 ![](https://img.shields.io/badge/Learning-Hacking-green)
-![](https://img.shields.io/badge/Making-YouTube%20Videos-%23c4302b)
 ![](https://img.shields.io/badge/Doing-CTF%20Challenges-blue)
 ![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
 
-## I'm a Student, Wannabe Developer, and Wannabe Youtuber!
-
-Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) 😜
-
-> I LOVE 💘FRONT-END💖 DEVELOPMENT! (Always get carried away doing UI in CSS)
+## I'm a Student who aspires to work in cybersecurity and tech engineering!
+(that makes [YouTube](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) video to consolidate my knowledge)
 
 ---
 
@@ -110,7 +106,32 @@ Please support my [YouTube Channel](https://www.youtube.com/channel/UCiWyI1d6ZfS
 
 ---
 
-👀 View Source:
+```
+A Poem I made about Web Development:
 
-<a href="https://github.com/ZakuroSoda/ZakuroSoda/raw/main/README.md"><img width="50px" src="https://soft-hearted-spray.000webhostapp.com/assets/534621.png"></a>
+Front end and back end,
+Two sides of the same coin.
+One designs the interface,
+The other powers the join.
 
+Front end the facade,
+The face users see.
+It's where the beauty lies,
+In the aesthetics and the design,
+free.
+
+Back end the engine,
+The brains behind the screen.
+Where the data's stored,
+And logic tucked away.
+
+Together they work in harmony,
+To create a seamless whole.
+Front end and back end,
+A partnership to behold.
+
+So here's to front end and back end,
+The yin and yang of code.
+May they continue to thrive,
+In this digital abode.
+```
