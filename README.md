@@ -40,6 +40,12 @@
 
 ---
 
+:zap: GitHub Stats
+
+![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda&theme=onedark)
+
+---
+
 ### 🥇 My Portfolio
 
 **Wins**
@@ -94,15 +100,6 @@
 - [LENGTH, not CONTENT](https://www.youtube.com/watch?v=6LgqudMwxKk)
 - [Getting Started in C/C++](https://www.youtube.com/watch?v=-1mu24SI7rE)
 <!-- YOUTUBE:END -->
-
-
----
-
-
-:zap: GitHub Stats
-
-
-![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda&theme=onedark)
 
 
 ---
