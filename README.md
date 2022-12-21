@@ -40,7 +40,7 @@
 
 ---
 
-:zap: GitHub Stats
+### :zap: GitHub Stats
 
 ![ZakuroSoda's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZakuroSoda&theme=onedark)
 
