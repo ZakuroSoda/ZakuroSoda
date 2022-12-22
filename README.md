@@ -74,9 +74,8 @@
 - CTFSG 2022
 - SMU Whitehacks CTF 2022 
 - Nullcon Winja CTF 2022
-- Space Heroes CTF 2022
 - Microsoft Imagine Cup Junior 2022
-- YCEP 2022
+- YCEP 2022 Full Marks
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
