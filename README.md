@@ -28,6 +28,7 @@
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 <img align="left" alt="SQL" width="26px" src="https://cdn-icons-png.flaticon.com/512/2772/2772149.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
