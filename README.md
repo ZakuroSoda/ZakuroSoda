@@ -52,6 +52,7 @@
 **Wins**
 - University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
 - Sentinel Challenge 2nd Place by Mindef and SAF
+- SMU Whitehacks 2023 1st Place
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
