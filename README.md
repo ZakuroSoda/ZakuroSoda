@@ -84,6 +84,8 @@
 - United Kingdom Intermediate Math Challenge
 - Singapore Mathematical Olympiad Junior 2022 Bronze 🥉
 - Australian Math Competition 2022 Distinction 🥇
+- Singapore Mathematical Olympiad Senior 2023 Bronze 🥉
+- Singapore Junior Physics Olympiad Individual Bronze 🥉 Team Honourable Mention 🎖️
 
 *and many more to come...*
 
