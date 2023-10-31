@@ -48,7 +48,7 @@
 
 **Wins**
 - University of Delaware Bluehens CTF 2022 2nd Place (out of 300+)
-- Sentinel Challenge 2nd Place by Mindef and SAF
+- Sentinel Challenge 2022 2nd Place by Mindef and SAF
 - SMU Whitehacks 2023 1st Place
 
 **Kinda Proud**
