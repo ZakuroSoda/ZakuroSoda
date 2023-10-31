@@ -36,9 +36,6 @@
 
 <br /><br />
 
-> I do my notes in markdown 😋  
-> (loves windows)
-
 ---
 
 ### :zap: GitHub Stats
@@ -58,25 +55,25 @@
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
 - BuckeyeCTF 2022 (12th Place in Undergraduate Division)
 
-**Participation in Cyber Events/CTF**
-- Advanced Youth Cyber Exploration Program 2021
-- Youth Cyber Exploration Program Central 2021
-- Youth Cyber Exploration Program 2021, 2022
+<details>
+  <summary>Fun stuff I want to remember</summary>
+- AYCEP 2021  
+- YCEP Central 2021
+- YCEP 2021, 2022
 - Brainhack 2021, 2022 by DSTA
 - Kaspersky Interactive Protection Simulation 2021
 - Sieberrsec CTF 2021
-- Idek CTF 2021
-- X-MAS CTF 2021
+- Idek CTF 2021 (Very fun)
 - Home Team Investigator's Challenge HTXIC 2021
-- Meta CTF 2021
+- MetaCTF 2021
 - DiceCTF 2022
 - Cybergrabs CTF 2022
-- Singapore National Olympiad in Informatics [NOI] 2022 Qualifying Round (Got 1 subtask!)
+- NOI 2022, NOI 2023 Finals (Nearly bronze)
 - CTFSG 2022
 - SMU Whitehacks CTF 2022 
 - Nullcon Winja CTF 2022
 - Microsoft Imagine Cup Junior 2022
-- YCEP 2022 Full Marks
+</details>
 
 **Math & Science**
 - Singapore Mathematical Olympiad Junior 2021 Bronze 🥉
@@ -85,9 +82,8 @@
 - Singapore Mathematical Olympiad Junior 2022 Bronze 🥉
 - Australian Math Competition 2022 Distinction 🥇
 - Singapore Mathematical Olympiad Senior 2023 Bronze 🥉
-- Singapore Junior Physics Olympiad Individual Bronze 🥉 Team Honourable Mention 🎖️
-
-*and many more to come...*
+- Singapore Junior Physics Olympiad 2023 Individual Silver 🥈 Team Honourable Mention 🎖️
+- National STEM Championship 2023 Champion 🥇
 
 ---
 
@@ -121,52 +117,4 @@ Features:
 
 ### 📓 Notes to Document my Learning
 - [CTF Notes](https://github.com/ZakuroSoda/ctf-notes)
-- [Lord of SQLi (Very comprehensive)](https://github.com/ZakuroSoda/LordOfSQLi)
-
----
-
-### 📺 Some YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [SQL Injection with an IMAGE?](https://www.youtube.com/watch?v=hldPY0kiT_s)
-- [Open any Password Protected Zip/PDF](https://www.youtube.com/watch?v=RWOb-JJ2jvo)
-- [PHP's == Comparator is Flawed](https://www.youtube.com/watch?v=CnSM3YfXrWg)
-- [EXCLUSIVE (or) to HACKERS](https://www.youtube.com/watch?v=_e_nq5JOVnA)
-- [How Hackers Steal Your Sweet Cookies](https://www.youtube.com/watch?v=Bphx1UT7m8M)
-- [Exploitation of a Complex JavaScript Game...](https://www.youtube.com/watch?v=z5VkCPJPfYc)
-- [LENGTH, not CONTENT](https://www.youtube.com/watch?v=6LgqudMwxKk)
-- [Getting Started in C/C++](https://www.youtube.com/watch?v=-1mu24SI7rE)
-<!-- YOUTUBE:END -->
-
-
----
-
-```
-A Poem I made about Web Development:
-
-Front end and back end,
-Two sides of the same coin.
-One designs the interface,
-The other powers the join.
-
-Front end the facade,
-The face users see.
-It's where the beauty lies,
-In the aesthetics and the design,
-free.
-
-Back end the engine,
-The brains behind the screen.
-Where the data's stored,
-And logic tucked away.
-
-Together they work in harmony,
-To create a seamless whole.
-Front end and back end,
-A partnership to behold.
-
-So here's to front end and back end,
-The yin and yang of code.
-May they continue to thrive,
-In this digital abode.
-```
+- [Lord of SQLi (rather comprehensive)](https://github.com/ZakuroSoda/LordOfSQLi)
