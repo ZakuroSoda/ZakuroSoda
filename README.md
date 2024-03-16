@@ -50,6 +50,7 @@
 - University of Delaware Bluehens CTF 2022 2nd Place
 - Sentinel Challenge 2022 2nd Place by Mindef and SAF
 - SMU Whitehacks 2023 1st Place
+- SieberrsecCTF 5.0 2024 1st Place
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
@@ -57,7 +58,7 @@
 - University of Delaware Bluehens CTF 2023 12th Place
 
 <details>
-  <summary>Fun stuff I want to remember</summary>
+  <summary>Fun things to remember</summary>
 - AYCEP 2021  
 - YCEP Central 2021
 - YCEP 2021, 2022
