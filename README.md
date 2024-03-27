@@ -1,13 +1,4 @@
 ### Hi there, I'm Reyes - aka [ZakuroSoda](https://zakurosoda.wixsite.com/ctf-writeups) 👋 
-
-![](https://img.shields.io/badge/High%20School-Coder-%23ff5f00)
-![](https://img.shields.io/badge/Learning-Hacking-green)
-![](https://img.shields.io/badge/Doing-CTF%20Challenges-blue)
-![](https://img.shields.io/badge/%E2%AD%90-If%20you%20find%20it%20%F0%9F%95%B6%EF%B8%8F%20-%23FFFF00)
-
-## I'm a Student who aspires to work in cybersecurity and tech engineering!
-(that makes [YouTube](https://www.youtube.com/channel/UCiWyI1d6ZfS4hpWrQP5TT-g) video to consolidate my knowledge)
-
 ---
 
 ### Connect with me:
