@@ -38,17 +38,20 @@
 ### 🥇 My Portfolio
 
 **Wins**
+- idekCTF 2021 7th Place
 - University of Delaware Bluehens CTF 2022 2nd Place
 - Sentinel Challenge 2022 2nd Place by Mindef and SAF
 - SMU Whitehacks 2023 1st Place
 - SieberrsecCTF 5.0 2024 1st Place
 - SMU Whitehacks 2024 2nd Place
-- idekCTF 2021 7th Place
+- DSTA CDDC Qualifier 2024 3rd Place
+- DSTA CDDC Finals 2024 4th Place
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
 - BuckeyeCTF 2022 (12th Place in Undergraduate Division)
 - University of Delaware Bluehens CTF 2023 12th Place
+- NUS Greyhats GreyCTF 2024 Finalist
 
 <details>
   <summary>Fun things to remember</summary>
