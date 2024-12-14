@@ -43,6 +43,7 @@
 - SMU Whitehacks 2023 1st Place
 - SieberrsecCTF 5.0 2024 1st Place
 - SMU Whitehacks 2024 2nd Place
+- idekCTF 2021 7th Place
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
