@@ -46,6 +46,7 @@
 - SMU Whitehacks 2024 2nd Place
 - DSTA CDDC Qualifier 2024 3rd Place
 - DSTA CDDC Finals 2024 4th Place
+- SMU Whitehacks 2025 1st Place
 
 **Kinda Proud**
 - GovTech JAGA STACK THE FLAGS 2022 (12th Place out of 58)
